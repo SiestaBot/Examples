@@ -1,4 +1,4 @@
-# Examples | Explanation of the dashboard
+# Examples | Explanation of the dashboard!
 Kawaii cares a lot about offering the best to our users, our goal is to make sure our users don't have any problems so we have a little help for you.
 
 ### Why should I read this?
