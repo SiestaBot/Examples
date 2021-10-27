@@ -1,6 +1,6 @@
-# Examples | Explanation of the dashboard
-Siesta cares a lot about offering the best to our users, our goal is to make sure our users don't have any problems so we have a little help for you.
+# Get Example | Siesta Documentation
+In this example aiohttp is used for the request, of course this can also be done with other packages. Basically it is just a url get request and then reading the text from the website.
 
 ### Why should I read this?
-It would be good if you read the dashboard explanation so that you understand how our dashboard works and how you can best use it!
+To work with our API you need to understand how the api works and how to use it correctly.
 
