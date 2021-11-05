@@ -10,4 +10,4 @@ async def main():
 loop = asyncio.get_event_loop()
 loop.run_until_complete(main())
 
->>> response: https://api.siesta.red/dt/smile/smile1.gif
+>>> response: https://siesta.red/data/smile/smile4.gif
