@@ -1,4 +1,4 @@
-> # Get Example - Siesta Documentation
+> # Get Example - Documentation
 > In this example aiohttp is used for the request, of course this can also be done with other packages. Basically it is just a url get request and then reading the text from the website.
 > 
 > ### Why should I read this?
