@@ -10,4 +10,4 @@ async def main():
 loop = asyncio.get_event_loop()
 loop.run_until_complete(main())
 
->>> response: https://siesta.red/data/smile/smile4.gif # link will change in 2024
+>>> response: https://siesta.red/data/smile/smile4.gif # New link will be added later
